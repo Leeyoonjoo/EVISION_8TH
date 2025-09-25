@@ -1,0 +1,13 @@
+# 가상환경/캐시/임시물
+venv/
+__pycache__/
+*.pyc
+
+# 업로드/결과(실행 산출물)
+uploads/
+results/
+
+# OS/IDE
+.DS_Store
+*.log
+.env
