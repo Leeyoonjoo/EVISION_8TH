@@ -22,7 +22,9 @@
 
 
 스크린샷 : 
-<img width="980" height="358" alt="image" src="https://github.com/user-attachments/assets/ce5c3358-0c73-4cf3-9d11-85184a1eac64" />
+<img width="542" height="244" alt="image" src="https://github.com/user-attachments/assets/a4b7b932-3d87-4d9a-bb70-d0d4f69bb25f" />
+<img width="683" height="344" alt="image" src="https://github.com/user-attachments/assets/e77e131c-3267-4545-bd4b-c07507e2b7fb" />
+
 
 
 실행방법
