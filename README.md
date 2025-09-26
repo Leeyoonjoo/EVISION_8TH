@@ -17,7 +17,13 @@
   3. 메타데이터 추출(생성/ 수정 시간 등)
   4. 문서 파일 내 특정 키워드 검색 
 
-결과 : .CSV 형태의 파일 
+결과 : .CSV 형태의 파일과 JSON파일 (results 폴더 내에 있음)
+<img width="1279" height="170" alt="image" src="https://github.com/user-attachments/assets/0500a4d8-4cd7-4d5c-aa50-57bba23fe85f" />
+
+
+스크린샷 : 
+<img width="980" height="358" alt="image" src="https://github.com/user-attachments/assets/ce5c3358-0c73-4cf3-9d11-85184a1eac64" />
+
 
 실행방법
 ```bash
