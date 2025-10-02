@@ -23,8 +23,9 @@
 
 스크린샷 : 
 
-<img width="542" height="244" alt="image" src="https://github.com/user-attachments/assets/a4b7b932-3d87-4d9a-bb70-d0d4f69bb25f" />
-<img width="683" height="344" alt="image" src="https://github.com/user-attachments/assets/e77e131c-3267-4545-bd4b-c07507e2b7fb" />
+<img width="503" height="157" alt="image" src="https://github.com/user-attachments/assets/c54ad0dd-5d74-4cf5-9cd0-07fa04c141af" />
+
+<img width="476" height="245" alt="image" src="https://github.com/user-attachments/assets/424e5ba8-9038-4263-9abb-07819f5b2325" />
 
 
 
