@@ -44,7 +44,7 @@ def detect_signature(path):                                                     
                 try:
                     with zipfile.ZipFile(path) as z:
                         names = set(z.namelist())                                       # 압축 내부 파일 목록 추출 
-                        if any(n.startwith("word/") for n in names):
+                        if any(n.startswith("word/") for n in names):
                             return "DOCX (OOXML)"                                   
                         if any(n.startswith("xl/") for n in names):
                             return "XLSX (OOXML)"
@@ -53,7 +53,7 @@ def detect_signature(path):                                                     
                 except Exception:
                     pass                                                                # zip 파일로 못 열면 그냥 기본 레이블 반환
             return label                                                                # 해당 포맷 이름 반환 
-        return "Unknown"                                                                # 어떤 것도 매칭안되면 Unknown 반환 
+    return "Unknown"                                                                # 어떤 것도 매칭안되면 Unknown 반환 
     
 def hash_file(path, algo="md5", chunk_size=1024*1024):                                  # 파일의 해시값(MD5, SHA-256 등)을 계산하는 함수
     h = hashlib.new(algo)                                                               # 헤시 객체 생성 
